@@ -27,7 +27,7 @@ export function Navbar() {
             <Terminal className="size-4 text-primary" />
           </div>
           <span className="font-mono text-sm font-bold tracking-wider text-foreground">
-            IBAD<span className="text-primary">DEV</span>
+            PERSONAL<span className="text-primary">PORTFOLIO</span>
           </span>
         </a>
 
